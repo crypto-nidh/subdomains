@@ -1,0 +1,240 @@
+[32mFound: [0m[32mmail.nasa.gov
+[0m
+[32mFound: [0m[32mns1.nasa.gov
+[0m
+[32mFound: [0m[32mlists.nasa.gov
+[0m
+[32mFound: [0m[32mwebmail.nasa.gov
+[0m
+[32mFound: [0m[32mtest.nasa.gov
+[0m
+[32mFound: [0m[32mwww.nasa.gov
+[0m
+[32mFound: [0m[32mbeta.nasa.gov
+[0m
+[32mFound: [0m[32mmobile.nasa.gov
+[0m
+[32mFound: [0m[32mwiki.nasa.gov
+[0m
+[32mFound: [0m[32mintranet.nasa.gov
+[0m
+[32mFound: [0m[32mcms.nasa.gov
+[0m
+[32mFound: [0m[32mapps.nasa.gov
+[0m
+[32mFound: [0m[32mimages.nasa.gov
+[0m
+[32mFound: [0m[32msearch.nasa.gov
+[0m
+[32mFound: [0m[32mwww3.nasa.gov
+[0m
+[32mFound: [0m[32mautodiscover.nasa.gov
+[0m
+[32mFound: [0m[32mapi.nasa.gov
+[0m
+[32mFound: [0m[32mradio.nasa.gov
+[0m
+[32mFound: [0m[32mservices.nasa.gov
+[0m
+[32mFound: [0m[32mdata.nasa.gov
+[0m
+[32mFound: [0m[32mchat.nasa.gov
+[0m
+[32mFound: [0m[32mim.nasa.gov
+[0m
+[32mFound: [0m[32mmy.nasa.gov
+[0m
+[32mFound: [0m[32mws.nasa.gov
+[0m
+[32mFound: [0m[32mt.nasa.gov
+[0m
+[32mFound: [0m[32mauth.nasa.gov
+[0m
+[32mFound: [0m[32msso.nasa.gov
+[0m
+[32mFound: [0m[32mshare.nasa.gov
+[0m
+[32mFound: [0m[32mevents.nasa.gov
+[0m
+[32mFound: [0m[32mcalendar.nasa.gov
+[0m
+[32mFound: [0m[32mtime.nasa.gov
+[0m
+[32mFound: [0m[32mhr.nasa.gov
+[0m
+[32mFound: [0m[32mwebservices.nasa.gov
+[0m
+[32mFound: [0m[32matlas.nasa.gov
+[0m
+[32mFound: [0m[32mmars.nasa.gov
+[0m
+[32mFound: [0m[32mlabs.nasa.gov
+[0m
+[32mFound: [0m[32mcore.nasa.gov
+[0m
+[32mFound: [0m[32mcode.nasa.gov
+[0m
+[32mFound: [0m[32msoftware.nasa.gov
+[0m
+[32mFound: [0m[32mforms.nasa.gov
+[0m
+[32mFound: [0m[32mid.nasa.gov
+[0m
+[32mFound: [0m[32mgoogle.nasa.gov
+[0m
+[32mFound: [0m[32mathena.nasa.gov
+[0m
+[32mFound: [0m[32mhq.nasa.gov
+[0m
+[32mFound: [0m[32miris.nasa.gov
+[0m
+[32mFound: [0m[32mopen.nasa.gov
+[0m
+[32mFound: [0m[32marchives.nasa.gov
+[0m
+[32mFound: [0m[32mhistory.nasa.gov
+[0m
+[32mFound: [0m[32mscience.nasa.gov
+[0m
+[32mFound: [0m[32mmoon.nasa.gov
+[0m
+[32mFound: [0m[32mdir.nasa.gov
+[0m
+[32mFound: [0m[32mnas.nasa.gov
+[0m
+[32mFound: [0m[32mbox.nasa.gov
+[0m
+[32mFound: [0m[32mplus.nasa.gov
+[0m
+[32mFound: [0m[32masp.nasa.gov
+[0m
+[32mFound: [0m[32mwebsite.nasa.gov
+[0m
+[32mFound: [0m[32mintern.nasa.gov
+[0m
+[32mFound: [0m[32mluna.nasa.gov
+[0m
+[32mFound: [0m[32mearth.nasa.gov
+[0m
+[32mFound: [0m[32meuropa.nasa.gov
+[0m
+[32mFound: [0m[32mams.nasa.gov
+[0m
+[32mFound: [0m[32mcarbon.nasa.gov
+[0m
+[32mFound: [0m[32mat.nasa.gov
+[0m
+[32mFound: [0m[32maqua.nasa.gov
+[0m
+[32mFound: [0m[32ml.nasa.gov
+[0m
+[32mFound: [0m[32mnic.nasa.gov
+[0m
+[32mFound: [0m[32mpki.nasa.gov
+[0m
+[32mFound: [0m[32midc.nasa.gov
+[0m
+[32mFound: [0m[32mterra.nasa.gov
+[0m
+[32mFound: [0m[32mrms.nasa.gov
+[0m
+[32mFound: [0m[32mguest.nasa.gov
+[0m
+[32mFound: [0m[32mcv.nasa.gov
+[0m
+[32mFound: [0m[32mstars.nasa.gov
+[0m
+[32mFound: [0m[32moscar.nasa.gov
+[0m
+[32mFound: [0m[32mice.nasa.gov
+[0m
+[32mFound: [0m[32mecho.nasa.gov
+[0m
+[32mFound: [0m[32mproperty.nasa.gov
+[0m
+[32mFound: [0m[32mhc.nasa.gov
+[0m
+[32mFound: [0m[32mspark.nasa.gov
+[0m
+[32mFound: [0m[32mep.nasa.gov
+[0m
+[32mFound: [0m[32mquantum.nasa.gov
+[0m
+[32mFound: [0m[32mlisa.nasa.gov
+[0m
+[32mFound: [0m[32msage.nasa.gov
+[0m
+[32mFound: [0m[32mnsc.nasa.gov
+[0m
+[32mFound: [0m[32mpsi.nasa.gov
+[0m
+[32mFound: [0m[32mcore1.nasa.gov
+[0m
+[32mFound: [0m[32minsight.nasa.gov
+[0m
+[32mFound: [0m[32mvendor.nasa.gov
+[0m
+[32mFound: [0m[32mwomen.nasa.gov
+[0m
+[32mFound: [0m[32msafety.nasa.gov
+[0m
+[32mFound: [0m[32mccs.nasa.gov
+[0m
+[32mFound: [0m[32mpolaris.nasa.gov
+[0m
+[32mFound: [0m[32mwww.map.nasa.gov
+[0m
+[32mFound: [0m[32mlc.nasa.gov
+[0m
+[32mFound: [0m[32mtechnology.nasa.gov
+[0m
+[32mFound: [0m[32mc3.nasa.gov
+[0m
+[32mFound: [0m[32mjuno.nasa.gov
+[0m
+[32mFound: [0m[32msrc.nasa.gov
+[0m
+[32mFound: [0m[32mscan.nasa.gov
+[0m
+[32mFound: [0m[32mapt.nasa.gov
+[0m
+[32mFound: [0m[32mwww.education.nasa.gov
+[0m
+[32mFound: [0m[32mbet.nasa.gov
+[0m
+[32mFound: [0m[32miss.nasa.gov
+[0m
+[32mFound: [0m[32mutility.nasa.gov
+[0m
+[32mFound: [0m[32mchemistry.nasa.gov
+[0m
+[32mFound: [0m[32muniverse.nasa.gov
+[0m
+[32mFound: [0m[32msara.nasa.gov
+[0m
+[32mFound: [0m[32mwind.nasa.gov
+[0m
+[32mFound: [0m[32msnow.nasa.gov
+[0m
+[32mFound: [0m[32mspectrum.nasa.gov
+[0m
+[32mFound: [0m[32mnd.nasa.gov
+[0m
+[32mFound: [0m[32msoc.nasa.gov
+[0m
+[32mFound: [0m[32mmysites.nasa.gov
+[0m
+[32mFound: [0m[32mbudget.nasa.gov
+[0m
+[32mFound: [0m[32mpds.nasa.gov
+[0m
+[32mFound: [0m[32mcolumbia.nasa.gov
+[0m
+[32mFound: [0m[32mstation.nasa.gov
+[0m
+[32mFound: [0m[32mrps.nasa.gov
+[0m
+[32mFound: [0m[32msfa.nasa.gov
+[0m
+[32mFound: [0m[32mmts.nasa.gov
+[0m
